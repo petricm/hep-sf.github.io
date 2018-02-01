@@ -3,7 +3,6 @@ title: Tessellated geometry support for DD4hep and ROOT/TGeo
 layout: gsoc_proposal
 project:
   - DD4hep
-  - ROOT
 year: 2018
 organisation: CERN
 ---
